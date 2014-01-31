@@ -1,6 +1,6 @@
 start
 Go to Layout [ “budget” (budget) ]
-Set Window Title [ Current Window; New Title: "Budget Research" ]
+Set Window Title [ Current Window; New Title: "Budget Planner" ]
 Set Zoom Level
 [ 100% ]
 #
@@ -19,4 +19,4 @@ Show/Hide Status Area
 [ Lock; Hide ]
 Install Menu Set [ “Custom Menu Set 1” ]
 End If
-January 8, 平成26 18:44:18 Budget Research.fp7 - start -1-
+January 30, 平成26 22:13:52 Budget Planner.fp7 - start -1-
