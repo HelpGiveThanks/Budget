@@ -3,5 +3,5 @@ New Window [ Name: "More Info"; Left: Get ( WindowDesktopWidth ) - (Get ( Window
 Go to Layout [ “moreInfo” (budget) ]
 Adjust Window
 [ Resize to Fit ]
-Pause/Resume Script [ Indeﬁnitely ]
+Pause/Resume Script [ Indefinitely ]
 February 6, 平成26 9:28:43 Budget Planner.fp7 - moreInfo -1-

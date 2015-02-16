@@ -3,7 +3,7 @@ New Record/Request
 Go to Layout [ “PurchaseTotals4” (out) ]
 Set Field [ out::purchaseLayoutView; "less" & Get (LayoutName) ]
 Set Field [ out::kbudget; budget::budgetGlobal ]
-Sort Records [ Speciﬁed Sort Order: out::_Lyear; ascending
+Sort Records [ Specified Sort Order: out::_Lyear; ascending
 out::_Lmonth; ascending
 person::person; ascending ]
 [ Restore; No dialog ]

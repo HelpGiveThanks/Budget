@@ -34,7 +34,7 @@ Set Field [ in::kbudget; budget::budgetGlobal ]
 Perform Find [ ]
 #
 Perform Script [ “updateIncomeHeaderCalc” ]
-Sort Records [ Speciﬁed Sort Order: in::year; ascending
+Sort Records [ Specified Sort Order: in::year; ascending
 in::Month; ascending ]
 [ Restore; No dialog ]
 Go to Record/Request/Page

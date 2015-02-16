@@ -7,7 +7,7 @@ Go to Layout [ “people” (person) ]
 Enter Find Mode [ ]
 Set Field [ person::kbudget; budget::budgetGlobal ]
 Perform Find [ ]
-Sort Records [ Speciﬁed Sort Order: person::person; ascending ]
+Sort Records [ Specified Sort Order: person::person; ascending ]
 [ Restore; No dialog ]
 Go to Record/Request/Page
 [ First ]

@@ -6,7 +6,7 @@ Go to Layout [ “source” (source) ]
 Enter Find Mode [ ]
 Set Field [ source::kbudget; budget::budgetGlobal ]
 Perform Find [ ]
-Sort Records [ Speciﬁed Sort Order: source::source; ascending ]
+Sort Records [ Specified Sort Order: source::source; ascending ]
 [ Restore; No dialog ]
 Go to Record/Request/Page
 [ First ]

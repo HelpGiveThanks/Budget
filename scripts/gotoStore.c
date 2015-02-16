@@ -6,7 +6,7 @@ Go to Layout [ “store” (store) ]
 Enter Find Mode [ ]
 Set Field [ store::kbudget; budget::budgetGlobal ]
 Perform Find [ ]
-Sort Records [ Speciﬁed Sort Order: store::store; ascending ]
+Sort Records [ Specified Sort Order: store::store; ascending ]
 [ Restore; No dialog ]
 Go to Record/Request/Page
 [ First ]

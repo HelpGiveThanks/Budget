@@ -33,7 +33,7 @@ Set Field [ out::kbudget; budget::budgetGlobal ]
 Perform Find [ ]
 #
 Perform Script [ “updatePurchaseHeaderCalc” ]
-Sort Records [ Speciﬁed Sort Order: out::_Lyear; ascending
+Sort Records [ Specified Sort Order: out::_Lyear; ascending
 out::_Lmonth; ascending
 person::person; ascending ]
 [ Restore; No dialog ]

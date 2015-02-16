@@ -1,4 +1,4 @@
-ﬁndPurchase3
+findPurchase3
 Go to Layout [ “PurchaseTotals3” (out) ]
 Show All Records
 Insert Text [ out::UpdateCalcField; “1” ]
@@ -10,6 +10,6 @@ Clear [ out::UpdateCalcField ]
 Commit Records/Requests
 [ No dialog ]
 Enter Browse Mode
-Sort Records [ Speciﬁed Sort Order: out::Date; descending ]
+Sort Records [ Specified Sort Order: out::Date; descending ]
 [ Restore; No dialog ]
-January 8, 平成26 18:57:18 Budget Research.fp7 - ﬁndPurchase3 -1-
+January 8, 平成26 18:57:18 Budget Research.fp7 - findPurchase3 -1-

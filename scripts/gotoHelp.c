@@ -21,10 +21,10 @@ End If
 #
 Open URL [ Case ( Get ( SystemPlatform ) = - 2 ;
 Substitute ( Substitute ( Get (FilePath) ; Get (FileName) & Right ( Get (FilePath) ; 4 ) ; "help" & Right ( Get (FilePath) ; 4 ) ) ; " " ; "%20" ) ;
-Substitute ( Substitute ( Substitute ( Get (FilePath) ; Get (FileName) & Right ( Get (FilePath) ; 4 ) ; "help" & Right ( Get (FilePath) ; 4 ) ) ; "ﬁle:/" ; "ﬁle://" ) ; " " ; "%20" ) ) ]
+Substitute ( Substitute ( Substitute ( Get (FilePath) ; Get (FileName) & Right ( Get (FilePath) ; 4 ) ; "help" & Right ( Get (FilePath) ; 4 ) ) ; "file:/" ; "file://" ) ; " " ; "%20" ) ) ]
 [ No dialog ]
-Open URL [ Substitute ( Substitute ( Substitute ( Substitute ( Get (FilePath) ; Get (FileName) & Right ( Get (FilePath) ; 4 ) ; "help" & Right ( Get (FilePath) ; 4 ) ) ; "ﬁle:/" ; "ﬁle:
-//" ) ; " " ; "%20" ) ; "ﬁle://" ; "ﬁle:///Volumes/" ) ]
+Open URL [ Substitute ( Substitute ( Substitute ( Substitute ( Get (FilePath) ; Get (FileName) & Right ( Get (FilePath) ; 4 ) ; "help" & Right ( Get (FilePath) ; 4 ) ) ; "file:/" ; "file:
+//" ) ; " " ; "%20" ) ; "file://" ; "file:///Volumes/" ) ]
 [ No dialog ]
 #
 Select Window [ Name: "Help" ]
